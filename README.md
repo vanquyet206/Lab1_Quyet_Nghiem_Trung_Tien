@@ -1,1 +1,3 @@
-# Lab1_Quyet_Nghiem_Trung_Tien
+Ho ten: Do Van Tien
+Lop: CNTT4
+MSV: 241230858
